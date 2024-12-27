@@ -22,4 +22,8 @@ A simple Python implementation of the classic Rock Paper Scissors game. This pro
 - **Conditional Statements:** `if-elif` conditions evaluate the game rules.
 - **Lists:** Simplify the management of choices (rock, paper, scissors).
 
-## Getting Started
+### Prerequisites
+- Python 3.x installed on your system.
+
+### Running the Game
+Clone the repository https://github.com/Harryy07/Py-Project-4-Rock-Paper-Scissor-game.git
