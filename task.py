@@ -40,11 +40,13 @@ elif user_selection == 0 and comp_selection == 1:
     print("You lose!")
 elif user_selection == 0 and comp_selection == 2:
     print("You win!")
+elif user_selection == 2 and comp_selection == 0:
+    print("You lose")
 elif user_selection == comp_selection :
     print("Its a Draw")
-elif comp_selection < user_selection:
-    print("you win")
-elif user_selection > comp_selection:
+elif comp_selection > user_selection:
     print("you lose")
+elif user_selection > comp_selection:
+    print("you win")
 
 
